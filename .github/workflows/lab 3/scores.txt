@@ -1,0 +1,45 @@
+Chloe:152
+Madison:188
+Grace:223
+Chloe:70
+Madison:70
+Grace:73
+test:151
+test:187
+test:219
+test:253
+w:152
+a:188
+l:224
+q:141
+o:165
+p:190
+w:14
+o:13
+p:13
+y:16
+f:18
+t:11
+Chloe:25
+Madison:25
+Grace:25
+Maddiee:69
+o:69
+1:70
+Chloe:16
+Madison0:16
+Grace:16
+q:70
+1:70
+d: 69
+1: 70
+q: 12
+: 12
+q: 69
+q: 29
+p: 30
+
+Chloe: 69
+Chloe: 12
+Jackson: 17
+: 69
